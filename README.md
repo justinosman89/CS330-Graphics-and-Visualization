@@ -37,28 +37,3 @@ These skills enable me to create engaging presentations, model complex systems, 
 
 
 
-
-How do I approach designing software?
-What new design skills has your work on the project helped you to craft?
-I start with understanding user requirements, then move to sketching out a high-level architecture, breaking down the system into manageable components, and finally mapping out the user experience flow. Throughout this process, I prioritize functionality, scalability, and user-centric design.
-
-What design process did you follow for your project work?
-This project honed my skills in 3D spatial awareness and texture application, teaching me to create more realistic environments. It also improved my ability to conceptualize and execute complex visualizations that are both aesthetically pleasing and functionally sound.
-
-How could tactics from your design approach be applied in future work?
-
-How do I approach developing programs?
-
-What new development strategies did you use while working on your 3D scene?
-
-How did iteration factor into your development?
-
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-How can computer science help me in reaching my goals?
-
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-
-
